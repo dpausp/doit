@@ -34,6 +34,7 @@ Changes
 =====================
 
 - Fix #410: if TOML lib not present, just print warning instead of raising error.
+- Fix #369: Support `multiprocess` if manually installed.
 
 
 0.34.0 (*2021-12-11*)
@@ -584,4 +585,3 @@ Changes
 ====================
 
 - initial release
-
